@@ -10,36 +10,36 @@ Judlup.
 
 ## Retos
 
-1. Calculator GUI with Python
-2. Number Guessing Game
-3. Image Converter GUI
-4. Spelling Correction with Python
-5. Weight Converter GUI
-6. Chessboard with Python
-7. Bar Code and QRcode Reader
-8. Card Game with Python
-9. Quiz Game with Python
-10. Creating a Web Scraper with Python
-11. Pencil Sketch with Python
-12. Text Editor GUI
-13. Instagram Filters with Python
-14. Send Custom Emails with Python
-15. Create a 3D Video with Python
-16. OTP Verification GUI
-17. Scraping and Download Youtube Videos with Python
-18. Deploy a Chatbot with HTML, CSS, and Python
-19. Telegram Bot with Python
-20. Scraping Twitter without API
-21. Unique Password Generator GUI
-22. Text to Speech with Python
-23. Bar Chart Race with Python
-24. Scrape Wikipedia with Python
-25. Translate using Python
-26. Scraping Instagram with Python
-27. Generate Interactive Maps
-28. Python Calendar GUI
-29. Python GUI for Data Entry
-30. Creating Graphics with Python
+1. [Calculator GUI with Python](https://thecleverprogrammer.com/2020/12/05/calculator-gui-with-python/)
+2. [Number Guessing Game](https://thecleverprogrammer.com/2020/12/04/number-guessing-game-with-python-and-c/)
+3. [Image Converter GUI](https://thecleverprogrammer.com/2020/12/02/image-converter-gui-with-python/)
+4. [Spelling Correction with Python](https://thecleverprogrammer.com/2020/11/30/correct-spellings-with-python/)
+5. [Weight Converter GUI](https://thecleverprogrammer.com/2020/11/28/weight-converter-gui-with-python/)
+6. [Chessboard with Python](https://thecleverprogrammer.com/2020/11/27/chessboard-with-python/)
+7. [Bar Code and QRcode Reader](https://thecleverprogrammer.com/2020/10/23/barcode-and-qr-code-reader-with-python/)
+8. [Card Game with Python](https://thecleverprogrammer.com/2020/10/04/card-game-with-python/)
+9. [Quiz Game with Python](https://thecleverprogrammer.com/2020/10/02/quiz-game-with-python/)
+10. [Creating a Web Scraper with Python](https://thecleverprogrammer.com/2020/10/01/web-scraper-with-python/)
+11. [Pencil Sketch with Python](https://thecleverprogrammer.com/2020/09/30/pencil-sketch-with-python/)
+12. [Text Editor GUI](https://thecleverprogrammer.com/2020/09/25/text-editor-gui-with-python/)
+13. [Instagram Filters with Python](https://thecleverprogrammer.com/2020/09/24/instagram-filters-with-python/)
+14. [Send Custom Emails with Python](https://thecleverprogrammer.com/2020/09/15/send-emails-with-python/)
+15. [Create a 3D Video with Python](https://thecleverprogrammer.com/2020/09/14/3d-video-with-python/)
+16. [OTP Verification GUI](https://thecleverprogrammer.com/2020/08/24/otp-verification-gui-with-python/)
+17. [Scraping and Download Youtube Videos with Python](https://thecleverprogrammer.com/2020/08/23/scraping-youtube-with-python/)
+18. [Deploy a Chatbot with HTML, CSS, and Python](https://thecleverprogrammer.com/2020/08/21/deploy-a-chatbot-with-python/)
+19. [Telegram Bot with Python](https://thecleverprogrammer.com/2020/08/18/telegram-bot-with-python/)
+20. [Scraping Twitter without API](https://thecleverprogrammer.com/2020/08/17/scraping-twitter-with-python/)
+21. [Unique Password Generator GUI](https://thecleverprogrammer.com/2020/08/17/password-generator-with-python/)
+22. [Text to Speech with Python](https://thecleverprogrammer.com/2020/08/16/text-to-speech-with-python/)
+23. [Bar Chart Race with Python](https://thecleverprogrammer.com/2020/08/14/bar-chart-race-with-python/)
+24. [Scrape Wikipedia with Python](https://thecleverprogrammer.com/2020/08/10/scrape-wikipedia-with-python/)
+25. [Translate using Python](https://thecleverprogrammer.com/2020/08/10/translate-using-python/)
+26. [Scraping Instagram with Python](https://thecleverprogrammer.com/2020/07/30/scraping-instagram-with-python/)
+27. [Generate Interactive Maps](https://thecleverprogrammer.com/2020/06/30/generate-interactive-maps-using-folium-in-python/)
+28. [Python Calendar GUI](https://thecleverprogrammer.com/2020/04/23/python-gui-app-for-calendar/)
+29. [Python GUI for Data Entry](https://thecleverprogrammer.com/2020/04/30/python-gui-app-for-student-details/)
+30. [Creating Graphics with Python](https://thecleverprogrammer.com/2020/05/05/creating-graphics-with-python/)
 
 ## Referencias
 
