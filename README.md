@@ -47,6 +47,8 @@ Judlup.
 
 * [Kivy doc](https://kivy.org/doc/stable/)
 * [Kivy short tutorial](https://youtu.be/9JH8r8mz0g4)
+* [Abrir repo utilizando Gihun Desktop](https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/github-desktop-tutorial.md)
+* [Clonar repo utilizando VSCode](https://github.com/firstcontributions/first-contributions/blob/master/gui-tool-tutorials/github-windows-vs-code-tutorial.md)
 
 ## Contacto
 
