@@ -45,3 +45,9 @@ Judlup.
 
 * [Kivy doc](https://kivy.org/doc/stable/)
 * [Kivy short tutorial](https://youtu.be/9JH8r8mz0g4)
+
+## Contacto
+
+[@TryCatch_dot](https://www.tiktok.com/@trycatch_dot)
+
+[Linktr.ee](https://linktr.ee/trycatch_dot)
