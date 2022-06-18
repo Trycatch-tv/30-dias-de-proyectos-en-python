@@ -6,6 +6,8 @@ La idea de este proyecto es facilitar una vía para que pudan practicar con ejer
 
 La idea es realizar un Fork de este proyecto, crear una rama por retor y disfrutar del proceso, antes de empezar es de mucha utilidad ver esta guía ([repo](https://github.com/firstcontributions/first-contributions), [video](https://youtu.be/KUVpaY-MYUc)) en la cual se explica como hacer el Fork y cómo es el flujo.
 
+Luego de hacer Fork del proyecto pueden agregar su nombre en la lista de Contributors de este proyecto en el archivo que encuentran en la raíz del repo llamado Contributors.md, luego crean un Pull Request la cual aprobaré para que sus nombres estén en este proyecto que es de todos.
+
 ¡Happy coding!
 
 Judlup.
