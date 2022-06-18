@@ -4,6 +4,8 @@
 
 La idea de este proyecto es facilitar una vía para que pudan practicar con ejercicios sencillos; no hace falta tener conocimientos avanzados para participar, esta metodología busca incentivar el crecimieento de conocimiento mediante la búsqueda de lo requerido para completar cada reto.
 
+La idea es realizar un Fork de este proyecto, crear una rama por retor y disfrutar del proceso, antes de empezar es de mucha utilidad ver esta guía ([repo](https://github.com/firstcontributions/first-contributions), [video](https://youtu.be/KUVpaY-MYUc)) en la cual se explica como hacer el Fork y cómo es el flujo.
+
 ¡Happy coding!
 
 Judlup.
