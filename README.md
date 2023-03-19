@@ -56,6 +56,6 @@ Judlup.
 
 ## Contacto
 
-[@TryCatch_dot](https://www.tiktok.com/@trycatch_dot)
+[@TryCatch.tv](https://www.tiktok.com/@trycatch.tv)
 
-[Linktr.ee](https://linktr.ee/trycatch_dot)
+[Linktr.ee](https://linktr.ee/trycatch.tv)
